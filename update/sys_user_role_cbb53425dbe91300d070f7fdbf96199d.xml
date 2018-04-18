@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_158833_test.test_github_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>test_github_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 07:44:50</sys_created_on>
+        <sys_id>cbb53425dbe91300d070f7fdbf96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_158833_test.test_github_user</sys_name>
+        <sys_package display_value="test" source="x_158833_test">b343f0a1dbe91300d070f7fdbf96193f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test">b343f0a1dbe91300d070f7fdbf96193f</sys_scope>
+        <sys_update_name>sys_user_role_cbb53425dbe91300d070f7fdbf96199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 07:44:50</sys_updated_on>
+    </sys_user_role>
+</record_update>
